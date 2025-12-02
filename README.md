@@ -178,4 +178,4 @@ Contributions are welcome! Please follow these guidelines:
 
 ## Contact
 
-For questions or support, please reach out to [your contact information]
+For questions or support, please reach out to 
